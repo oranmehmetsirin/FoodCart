@@ -10,6 +10,8 @@ The project was also built using React-Router-Dom, Axios, Redux, React-Redux, Re
 
 Below is a small visual of the project.
 
+![Animation](https://github.com/oranmehmetsirin/FoodCart/blob/main/gif.gif?raw=true)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
