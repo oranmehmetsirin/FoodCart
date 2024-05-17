@@ -1,6 +1,6 @@
 # FoodCart
 
-A food basket project.
+A food cart project.
 
 The project is carried out by pulling data through a created Json-Server.
 
